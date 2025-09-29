@@ -1,0 +1,112 @@
+{
+  "common": {
+    "back": "رجوع",
+    "cancel": "إلغاء",
+    "confirm": "تأكيد",
+    "continue": "متابعة",
+    "save": "حفظ",
+    "done": "تم",
+    "loading": "جاري التحميل...",
+    "error": "خطأ",
+    "success": "نجح",
+    "welcome": "مرحباً",
+    "totalValue": "القيمة الإجمالية هي.",
+    "availableBalance": "الرصيد المتاح"
+  },
+  "navigation": {
+    "settings": "الإعدادات",
+    "home": "الرئيسية",
+    "profile": "الملف الشخصي",
+    "transactions": "المعاملات",
+    "cards": "البطاقات",
+    "notifications": "الإشعارات"
+  },
+  "settings": {
+    "title": "الإعدادات",
+    "currency": "العملة",
+    "language": "اللغة",
+    "notifications": "الإشعارات",
+    "authorizations": "التفويضات",
+    "logout": "تسجيل الخروج",
+    "notificationsActivated": "تم تفعيل الإشعارات",
+    "notificationsDeactivated": "تم إلغاء تفعيل الإشعارات"
+  },
+  "home": {
+    "totalBalance": "الرصيد الإجمالي",
+    "scanQrCode": "مسح رمز QR",
+    "scanQrCodeDescription": "مسح رمز QR لإرسال أو استقبال الأموال",
+    "gift": "هدية",
+    "giftDescription": "إرسال العملة المشفرة كهدية لشخص ما",
+    "deposit": "إيداع",
+    "send": "إرسال",
+    "withdraw": "سحب",
+    "convert": "تحويل",
+    "more": "المزيد",
+    "analytics": "التحليلات",
+    "transactions": "المعاملات",
+    "quickActions": "الإجراءات السريعة",
+    "portfolio": "المحفظة",
+    "balance": "الرصيد"
+  },
+  "actions": {
+    "deposit": "إيداع",
+    "send": "إرسال",
+    "withdraw": "سحب",
+    "convert": "تحويل",
+    "scan": "مسح",
+    "gift": "هدية",
+    "more": "المزيد",
+    "convertDescription": "تبديل بين العملات",
+    "withdrawDescription": "تحويل الأموال إلى البنك",
+    "scanDescription": "مدفوعات وتحويلات سريعة",
+    "giftDescription": "إرسال المال للأصدقاء والعائلة"
+  },
+  "currency": {
+    "selectCurrency": "اختيار العملة",
+    "currentCurrency": "العملة الحالية"
+  },
+  "language": {
+    "selectLanguage": "اختيار اللغة",
+    "currentLanguage": "اللغة الحالية"
+  },
+  "auth": {
+    "login": "تسجيل الدخول",
+    "logout": "تسجيل الخروج",
+    "signup": "التسجيل",
+    "forgotPassword": "نسيت كلمة المرور",
+    "resetPassword": "إعادة تعيين كلمة المرور",
+    "email": "البريد الإلكتروني",
+    "password": "كلمة المرور",
+    "confirmPassword": "تأكيد كلمة المرور",
+    "fullName": "الاسم الكامل",
+    "phoneNumber": "رقم الهاتف"
+  },
+  "profile": {
+    "personalInformation": "المعلومات الشخصية",
+    "addressInformation": "معلومات العنوان",
+    "identityVerification": "التحقق من الهوية",
+    "securityVerification": "التحقق الأمني",
+    "accountSettings": "إعدادات الحساب",
+    "helpSupport": "المساعدة والدعم"
+  },
+  "verification": {
+    "completeProfile": "أكمل ملفك الشخصي للوصول إلى جميع الميزات",
+    "verificationRequired": "التحقق مطلوب",
+    "documentUpload": "رفع المستندات",
+    "phoneVerification": "التحقق من الهاتف",
+    "emailVerification": "التحقق من البريد الإلكتروني"
+  },
+  "transactions": {
+    "recentTransactions": "المعاملات الأخيرة",
+    "allTransactions": "جميع المعاملات",
+    "noTransactions": "لم يتم العثور على معاملات",
+    "pending": "قيد الانتظار",
+    "completed": "مكتمل",
+    "failed": "فشل",
+    "processing": "قيد المعالجة",
+    "amount": "المبلغ",
+    "date": "التاريخ",
+    "reference": "المرجع",
+    "description": "الوصف"
+  }
+}

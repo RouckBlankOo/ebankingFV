@@ -1,0 +1,67 @@
+{
+  "common": {
+    "back": "返回",
+    "cancel": "取消",
+    "confirm": "确认",
+    "continue": "继续",
+    "save": "保存",
+    "done": "完成",
+    "loading": "加载中...",
+    "error": "错误",
+    "success": "成功"
+  },
+  "navigation": {
+    "settings": "设置",
+    "home": "首页",
+    "profile": "个人资料",
+    "transactions": "交易",
+    "cards": "卡片",
+    "notifications": "通知"
+  },
+  "settings": {
+    "title": "设置",
+    "currency": "货币",
+    "language": "语言",
+    "notifications": "通知",
+    "authorizations": "授权",
+    "logout": "退出登录",
+    "notificationsActivated": "通知已激活",
+    "notificationsDeactivated": "通知已停用"
+  },
+  "home": {
+    "totalBalance": "总余额",
+    "scanQrCode": "扫描二维码",
+    "scanQrCodeDescription": "扫描二维码发送或接收资金",
+    "gift": "礼品",
+    "giftDescription": "向某人发送加密货币作为礼物",
+    "deposit": "存款",
+    "send": "发送",
+    "withdraw": "提取",
+    "convert": "转换",
+    "more": "更多"
+  },
+  "actions": {
+    "deposit": "存款",
+    "send": "发送",
+    "withdraw": "提取",
+    "convert": "转换",
+    "scan": "扫描",
+    "gift": "礼品",
+    "more": "更多"
+  },
+  "currency": {
+    "selectCurrency": "选择货币",
+    "currentCurrency": "当前货币"
+  },
+  "language": {
+    "selectLanguage": "选择语言",
+    "currentLanguage": "当前语言"
+  },
+  "auth": {
+    "login": "登录",
+    "logout": "退出登录",
+    "signup": "注册",
+    "forgotPassword": "忘记密码",
+    "resetPassword": "重置密码"
+  }
+}

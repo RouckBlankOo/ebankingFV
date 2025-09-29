@@ -1,0 +1,67 @@
+{
+  "common": {
+    "back": "戻る",
+    "cancel": "キャンセル",
+    "confirm": "確認",
+    "continue": "続行",
+    "save": "保存",
+    "done": "完了",
+    "loading": "読み込み中...",
+    "error": "エラー",
+    "success": "成功"
+  },
+  "navigation": {
+    "settings": "設定",
+    "home": "ホーム",
+    "profile": "プロフィール",
+    "transactions": "取引",
+    "cards": "カード",
+    "notifications": "通知"
+  },
+  "settings": {
+    "title": "設定",
+    "currency": "通貨",
+    "language": "言語",
+    "notifications": "通知",
+    "authorizations": "認証",
+    "logout": "ログアウト",
+    "notificationsActivated": "通知が有効になりました",
+    "notificationsDeactivated": "通知が無効になりました"
+  },
+  "home": {
+    "totalBalance": "総残高",
+    "scanQrCode": "QRコードをスキャン",
+    "scanQrCodeDescription": "QRコードをスキャンして資金を送受信",
+    "gift": "ギフト",
+    "giftDescription": "誰かに暗号通貨をギフトとして送る",
+    "deposit": "入金",
+    "send": "送金",
+    "withdraw": "出金",
+    "convert": "変換",
+    "more": "その他"
+  },
+  "actions": {
+    "deposit": "入金",
+    "send": "送金",
+    "withdraw": "出金",
+    "convert": "変換",
+    "scan": "スキャン",
+    "gift": "ギフト",
+    "more": "その他"
+  },
+  "currency": {
+    "selectCurrency": "通貨を選択",
+    "currentCurrency": "現在の通貨"
+  },
+  "language": {
+    "selectLanguage": "言語を選択",
+    "currentLanguage": "現在の言語"
+  },
+  "auth": {
+    "login": "ログイン",
+    "logout": "ログアウト",
+    "signup": "サインアップ",
+    "forgotPassword": "パスワードを忘れた",
+    "resetPassword": "パスワードをリセット"
+  }
+}

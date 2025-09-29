@@ -1,0 +1,67 @@
+{
+  "common": {
+    "back": "Zurück",
+    "cancel": "Abbrechen",
+    "confirm": "Bestätigen",
+    "continue": "Weiter",
+    "save": "Speichern",
+    "done": "Fertig",
+    "loading": "Laden...",
+    "error": "Fehler",
+    "success": "Erfolg"
+  },
+  "navigation": {
+    "settings": "Einstellungen",
+    "home": "Startseite",
+    "profile": "Profil",
+    "transactions": "Transaktionen",
+    "cards": "Karten",
+    "notifications": "Benachrichtigungen"
+  },
+  "settings": {
+    "title": "Einstellungen",
+    "currency": "Währung",
+    "language": "Sprache",
+    "notifications": "Benachrichtigungen",
+    "authorizations": "Berechtigungen",
+    "logout": "Abmelden",
+    "notificationsActivated": "Benachrichtigungen aktiviert",
+    "notificationsDeactivated": "Benachrichtigungen deaktiviert"
+  },
+  "home": {
+    "totalBalance": "Gesamtsaldo",
+    "scanQrCode": "QR-Code scannen",
+    "scanQrCodeDescription": "QR-Code scannen, um Geld zu senden oder zu empfangen",
+    "gift": "Geschenk",
+    "giftDescription": "Kryptowährung als Geschenk an jemanden senden",
+    "deposit": "Einzahlung",
+    "send": "Senden",
+    "withdraw": "Abheben",
+    "convert": "Konvertieren",
+    "more": "Mehr"
+  },
+  "actions": {
+    "deposit": "Einzahlung",
+    "send": "Senden",
+    "withdraw": "Abheben",
+    "convert": "Konvertieren",
+    "scan": "Scannen",
+    "gift": "Geschenk",
+    "more": "Mehr"
+  },
+  "currency": {
+    "selectCurrency": "Währung auswählen",
+    "currentCurrency": "Aktuelle Währung"
+  },
+  "language": {
+    "selectLanguage": "Sprache auswählen",
+    "currentLanguage": "Aktuelle Sprache"
+  },
+  "auth": {
+    "login": "Anmelden",
+    "logout": "Abmelden",
+    "signup": "Registrieren",
+    "forgotPassword": "Passwort vergessen",
+    "resetPassword": "Passwort zurücksetzen"
+  }
+}

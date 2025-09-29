@@ -1,0 +1,67 @@
+{
+  "common": {
+    "back": "Atrás",
+    "cancel": "Cancelar",
+    "confirm": "Confirmar",
+    "continue": "Continuar",
+    "save": "Guardar",
+    "done": "Hecho",
+    "loading": "Cargando...",
+    "error": "Error",
+    "success": "Éxito"
+  },
+  "navigation": {
+    "settings": "Configuración",
+    "home": "Inicio",
+    "profile": "Perfil",
+    "transactions": "Transacciones",
+    "cards": "Tarjetas",
+    "notifications": "Notificaciones"
+  },
+  "settings": {
+    "title": "Configuración",
+    "currency": "Moneda",
+    "language": "Idioma",
+    "notifications": "Notificaciones",
+    "authorizations": "Autorizaciones",
+    "logout": "Cerrar sesión",
+    "notificationsActivated": "Notificaciones activadas",
+    "notificationsDeactivated": "Notificaciones desactivadas"
+  },
+  "home": {
+    "totalBalance": "Saldo Total",
+    "scanQrCode": "Escanear código QR",
+    "scanQrCodeDescription": "Escanear código QR para enviar o recibir fondos",
+    "gift": "Regalo",
+    "giftDescription": "Enviar criptomoneda como regalo a alguien",
+    "deposit": "Depósito",
+    "send": "Enviar",
+    "withdraw": "Retirar",
+    "convert": "Convertir",
+    "more": "Más"
+  },
+  "actions": {
+    "deposit": "Depósito",
+    "send": "Enviar",
+    "withdraw": "Retirar",
+    "convert": "Convertir",
+    "scan": "Escanear",
+    "gift": "Regalo",
+    "more": "Más"
+  },
+  "currency": {
+    "selectCurrency": "Seleccionar moneda",
+    "currentCurrency": "Moneda actual"
+  },
+  "language": {
+    "selectLanguage": "Seleccionar idioma",
+    "currentLanguage": "Idioma actual"
+  },
+  "auth": {
+    "login": "Iniciar sesión",
+    "logout": "Cerrar sesión",
+    "signup": "Registrarse",
+    "forgotPassword": "Olvidé mi contraseña",
+    "resetPassword": "Restablecer contraseña"
+  }
+}
